@@ -1,1 +1,1 @@
-# Hi, I'm Lakshay 👋 — Full-Stack Software Engineer · React · Node.js · TypeScript ![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb)
+# Hi, I'm Lakshay 👋 — Full-Stack Software Engineer · React · Node.js · TypeScript ![JavaScript, TypeScript, React, Node.js, Express, MongoDB, MySQL, HTML, CSS, Tailwind CSS, Git, GitHub](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github&perline=6)
