@@ -1,13 +1,14 @@
-
 <h1 align="center">Hi, I'm Lakshay Rohilla 👋</h1>
-<p align="center">Full-Stack Software Engineer · React · Node.js · TypeScript</p>
+<p align="center">Full-stack engineer · React · TypeScript · Node.js · Express · MySQL · MongoDB</p>
 
-<h2 align="center">Tech Stack</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      alt="JavaScript, TypeScript, React, Node.js, Express, MongoDB, MySQL, HTML, CSS, Tailwind CSS, Git, GitHub"
-      src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github&perline=6"
-    />
-  </a>
-</p>
+I build full-stack web apps, and I'm going deeper into backend design and applied GenAI.
+
+## Featured projects
+
+- **[Form Enclave](https://github.com/Lakshay85/Client-project)** - form builder with shareable public forms and response analytics. React + TypeScript frontend, Express + TypeScript API, MySQL, JWT auth, automated tests.
+- **[Persistent Priority Queue](https://github.com/Lakshay85/priority-queue-assignment)** - binary-heap priority queue in Node.js with atomic on-disk persistence, FIFO tie-breaking and a documented complexity analysis. No dependencies.
+- **[Chat App](https://github.com/Lakshay85/chat_app)** - real-time messaging with Socket.IO, JWT auth and MongoDB.
+- **[Major-Project](https://github.com/Lakshay85/Major-Project)** - Express + EJS app with user accounts, listings, reviews and map locations, backed by MongoDB.
+
+## Tech
+JavaScript · TypeScript · React · Node.js · Express · MongoDB · MySQL · Tailwind CSS · Git
